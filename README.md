@@ -18,7 +18,11 @@ Receive personalized weather forecasts based on your selected city or current lo
 
 ## Technologies Used:
 Weather APIs: Leveraging weather APIs to fetch real-time weather data.
+
 Image APIs: Integrating high-quality city images to enrich the user experience.
+
 UI/UX Design: Crafting an interactive and visually pleasing interface for seamless navigation.
+
 Location Detection: Implementing location-based services to offer personalized weather forecasts.
+
 Animations and Transitions: Adding dynamic elements to enhance the app's aesthetics and user engagement.
